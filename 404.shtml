@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>This Page Doesn't Exist</title>
+
+    <link rel="stylesheet" href="/style/style.css">
+
+
+  </head>
+<body class="day" style="text-align: center;">
+
+    The page life-series.com<span class="error_page"><!--#echo var="REQUEST_URI" --></span> doesn't exist on this server right now. either you made a typo, or you should check back later!
+
+</body>
+</html>
+

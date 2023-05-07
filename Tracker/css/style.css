@@ -1,0 +1,41 @@
+:root {
+    --form-color: rgb(235, 35, 35);
+  }
+
+  *,
+  *:before,
+  *:after {
+    box-sizing: border-box;
+  }
+
+.poll {
+    border: 5px solid rgb(255, 255, 255);
+    background: rgb(255, 255, 255);
+    border-radius: 10%;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    height: 500px;
+  }
+
+body {
+  background: rgb(255,0,0);
+  background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,149,0,1) 14%, rgba(255,244,0,1) 28%, rgba(201,248,0,1) 39%, rgba(1,255,0,1) 48%, rgba(0,255,231,1) 64%, rgba(2,155,235,1) 76%, rgba(12,0,255,1) 89%, rgba(205,0,255,1) 100%); 
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+  text-align: center;
+  background-color:rgba(240, 248, 255, 0);
+
+  -webkit-transition: all 2s ease-out;
+  -moz-transition: all 2s ease-out;
+  -o-transition: all 2s ease-out;
+  transition: all 2s ease-out;
+}
+
+h2:hover {
+  cursor: pointer;
+  background: rgb(255,153,153);
+  background: linear-gradient(90deg, rgba(255,153,153,1) 0%, rgba(255,208,142,1) 14%, rgba(255,249,105,1) 28%, rgba(201,248,0,1) 39%, rgba(135,255,135,1) 48%, rgba(141,255,244,1) 64%, rgba(120,209,255,1) 76%, rgba(138,132,255,1) 89%, rgba(233,141,255,1) 100%); 
+}

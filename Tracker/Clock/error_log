@@ -1,0 +1,5 @@
+[08-Apr-2023 11:55:17 America/New_York] PHP Notice:  Undefined variable: bg in /home/empiwckf/scarian.gay/Tracker/Clock/index.php on line 4
+[08-Apr-2023 11:55:17 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/empiwckf/scarian.gay/Tracker/Clock/index.php on line 4
+[08-Apr-2023 11:55:17 America/New_York] PHP Notice:  Undefined variable: bg in /home/empiwckf/scarian.gay/Tracker/Clock/index.php on line 5
+[08-Apr-2023 11:55:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/empiwckf/scarian.gay/Tracker/Clock/index.php on line 5
+[08-Apr-2023 11:57:23 America/New_York] PHP Notice:  Undefined variable: selectedBg in /home/empiwckf/scarian.gay/Tracker/Clock/index.php on line 50

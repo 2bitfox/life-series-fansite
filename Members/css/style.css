@@ -1,0 +1,67 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 900px) {
+    .center {
+        width: 100%;
+    }
+}
+
+.user_name {
+    text-align: center;
+}
+
+.user {
+    font-size: 1.5rem;
+    margin: 5px;
+    padding: 5px;
+    border: 1px black solid;
+    display: block;
+    height: 22px;
+}
+
+.user:hover {
+    background-color: #e6070734;
+    color: #e60707;
+}
+
+.user_list {
+    background-color: rgba(255, 255, 255, 0.356);
+    backdrop-filter: blur(10px);
+    padding: 10px;
+}
+
+.user_list a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.user_list a:hover {
+    color: #e60707;
+}
+
+.hearts {
+    float: right;
+}
+.username {
+    float: left;
+}
+
+.credit {
+    text-align: right;
+}
+
+.credit a {
+    color: #00000075;
+}
+
+.credit a:hover {
+    color: #e6070775;
+}

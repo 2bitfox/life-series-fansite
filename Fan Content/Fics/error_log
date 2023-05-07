@@ -1,0 +1,45 @@
+[04-Mar-2023 15:59:07 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 14
+[04-Mar-2023 15:59:10 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 14
+[04-Mar-2023 16:01:44 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 21
+[04-Mar-2023 16:03:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getElementsByTagName() on null in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 14
+[04-Mar-2023 16:03:47 America/New_York] PHP Warning:  DOMDocument::load(http://www.banki.ru/xml/news.rss): failed to open stream: Redirection limit reached, aborting in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 12
+[04-Mar-2023 16:03:47 America/New_York] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;http://www.banki.ru/xml/news.rss&quot; in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 12
+[04-Mar-2023 16:03:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getElementsByTagName() on null in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 14
+[04-Mar-2023 16:06:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_remote_data() in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 11
+[04-Mar-2023 16:06:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_remote_data() in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 11
+[04-Mar-2023 16:06:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_remote_data() in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 12
+[04-Mar-2023 16:09:51 America/New_York] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 13
+[04-Mar-2023 16:09:51 America/New_York] PHP Warning:  simplexml_load_string(): https://archiveofourown.org/tags/74942712/feed.atom in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 13
+[04-Mar-2023 16:09:51 America/New_York] PHP Warning:  simplexml_load_string(): ^ in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 13
+[04-Mar-2023 16:14:53 America/New_York] PHP Parse error:  syntax error, unexpected '"please work. agh. pain"' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 11
+[04-Mar-2023 16:15:04 America/New_York] PHP Parse error:  syntax error, unexpected '"please work. agh. pain"' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 11
+[04-Mar-2023 16:15:04 America/New_York] PHP Parse error:  syntax error, unexpected '"please work. agh. pain"' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 11
+[04-Mar-2023 16:15:05 America/New_York] PHP Parse error:  syntax error, unexpected '"please work. agh. pain"' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 11
+[04-Mar-2023 16:15:06 America/New_York] PHP Parse error:  syntax error, unexpected '"please work. agh. pain"' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 11
+[04-Mar-2023 16:15:06 America/New_York] PHP Parse error:  syntax error, unexpected '"please work. agh. pain"' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 11
+[04-Mar-2023 16:18:28 America/New_York] PHP Parse error:  syntax error, unexpected '"entry"' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 16
+[04-Mar-2023 16:25:18 America/New_York] PHP Notice:  Undefined variable: dom in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 15
+[04-Mar-2023 16:25:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getElementsByTagName() on null in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 15
+[18-Mar-2023 11:05:29 America/New_York] PHP Notice:  Undefined variable: dom in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 15
+[18-Mar-2023 11:05:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getElementsByTagName() on null in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/empiwckf/scarian.gay/Fan Content/Fics/index.php on line 15

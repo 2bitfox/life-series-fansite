@@ -1,0 +1,19 @@
+[04-Mar-2023 14:20:47 America/New_York] PHP Warning:  array_rand(): Array is empty in /home/empiwckf/scarian.gay/Fan Content/index.php on line 24
+[04-Mar-2023 14:20:47 America/New_York] PHP Notice:  Undefined index:  in /home/empiwckf/scarian.gay/Fan Content/index.php on line 24
+[04-Mar-2023 14:20:49 America/New_York] PHP Notice:  Undefined variable: database in /home/empiwckf/scarian.gay/Fan Content/index.php on line 251
+[04-Mar-2023 14:20:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/empiwckf/scarian.gay/Fan Content/index.php:267
+Stack trace:
+#0 {main}
+  thrown in /home/empiwckf/scarian.gay/Fan Content/index.php on line 267
+[04-Mar-2023 14:21:02 America/New_York] PHP Warning:  array_rand(): Array is empty in /home/empiwckf/scarian.gay/Fan Content/index.php on line 24
+[04-Mar-2023 14:21:02 America/New_York] PHP Notice:  Undefined index:  in /home/empiwckf/scarian.gay/Fan Content/index.php on line 24
+[04-Mar-2023 14:21:05 America/New_York] PHP Notice:  Undefined variable: database in /home/empiwckf/scarian.gay/Fan Content/index.php on line 251
+[04-Mar-2023 14:21:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/empiwckf/scarian.gay/Fan Content/index.php:267
+Stack trace:
+#0 {main}
+  thrown in /home/empiwckf/scarian.gay/Fan Content/index.php on line 267
+[04-Mar-2023 14:22:14 America/New_York] PHP Notice:  Undefined variable: database in /home/empiwckf/scarian.gay/Fan Content/index.php on line 215
+[04-Mar-2023 14:22:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/empiwckf/scarian.gay/Fan Content/index.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/empiwckf/scarian.gay/Fan Content/index.php on line 231
