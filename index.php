@@ -219,7 +219,7 @@
                             // database information
                             $conn = new mysqli($servername, $username, $password, $database);
 
-                            $sql = "INSERT INTO empiwckf_scarian.testimonals (User, Comment) VALUES (?, ?)";
+                            $sql = "INSERT INTO .testimonals (User, Comment) VALUES (?, ?)";
                             $stmt= $conn->prepare($sql);
                             $stmt->bind_param("ss", $name, $comment);
                             $stmt->execute();
@@ -254,7 +254,7 @@
                         die("Connection failed: " . $conn->connect_error);
                     } 
                     
-                    $query = "SELECT * FROM empiwckf_scarian.testimonals ORDER BY ID DESC";
+                    $query = "SELECT * FROM .testimonals ORDER BY ID DESC";
                     $result = $conn->query($query);
                     
                     echo "<p class='comments_header'>Testimonals:</p>";
